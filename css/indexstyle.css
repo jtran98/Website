@@ -75,3 +75,7 @@ nav a:hover::before{
     font-size: 25px;
     margin: 5px;
 }
+
+.navlist a{
+    text-decoration: none;
+}
